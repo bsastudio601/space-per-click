@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.container {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+
+    
+
+}
+#clicker {
+    background-color: #222222;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: dotted 2px rgb(146, 146, 146);
+    transition: transform 0.15s ease ,olor 0.2s ease;
+}
+#reserbtn {
+    top: 500px;
+
+}
