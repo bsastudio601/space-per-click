@@ -8,7 +8,7 @@ if u want to forget how many clicks you took away from your space keys life you 
 ## features
 * really clean and dark mode ui
 * round circle to show you click!
-* achivements are there too! u gotta figure it out yourself :/
+* achivements are there too! u gotta figure it out yourself but there is in 10, 50, 100 and so on
 * oh and it can remember after u close the browser >:)
 
 
